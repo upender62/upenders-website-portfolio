@@ -40,7 +40,7 @@ export const Navigation = () => {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-20">
           <a href="#hero" className="font-serif text-xl lg:text-2xl font-bold text-foreground">
-            Upender Reddy
+            upender
           </a>
 
           {/* Desktop Navigation */}
