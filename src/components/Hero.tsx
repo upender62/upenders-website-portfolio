@@ -77,7 +77,7 @@ export const Hero = () => {
               <div className="relative bg-card rounded-2xl p-6 shadow-xl">
                 <img
                   src={profileImage}
-                  alt="Upender Reddy Keesari - SDET Engineer"
+                  alt="upender - SDET Engineer"
                   className="w-full max-w-sm rounded-lg"
                 />
                 <div className="mt-6 text-center">
