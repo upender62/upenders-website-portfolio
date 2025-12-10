@@ -1,4 +1,4 @@
-# Upender Reddy Keesari - Portfolio Website
+# Upender Reddy - Portfolio Website
 
 ## About
 
