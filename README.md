@@ -1,4 +1,4 @@
-# Upender Reddy - Portfolio Website
+# upender - Portfolio Website
 
 ## About
 
@@ -45,10 +45,10 @@ npm run build
 
 ## Contact
 
-- Email: upenderreddykeesari8@gmail.com
+- Email: puligillaboys@gmail.com
 - Phone: +1 (815) 530-3488
 - Location: Chicago, Illinois
 
 ## License
 
-© 2025 Upender Reddy Keesari. All rights reserved.
+© 2025 upender . All rights reserved.
